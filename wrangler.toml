@@ -1,4 +1,5 @@
 [[d1_databases]]
 binding = "DB"
-database_name = "my-d1-db"
-database_id = "your-database-id"
+database_name = "my-database"
+database_id = "b2f33ff1-6151-4b28-92d5-afa90e27c4b8"
+
