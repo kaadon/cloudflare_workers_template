@@ -1,4 +1,4 @@
-[[d1_databases]]
-binding = "DB"
-database_name = "my-d1-db"
-database_id = "your-database-id"
+name = "cloudflare_workers_template"
+main = "src/index.js"
+compatibility_date = "2025-04-05"
+compatibility_flags = ["nodejs_compat"]
